@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 36px;
+  }
+  
+  .card {
+    width: 320px;
+    height: 390px;
+    background: rgb(0, 0, 0, 0.4);
+    border-radius: 14px;
+    text-align: center;
+    padding-top: 25px;
+    margin: 25px;
+    display: inline-block;
+  
+  }
+  
+  .avatar {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+  
+  }
+  
+  .btns {
+    margin-left: 200px;
+    background: seagreen;
+    color: white;
+  }
+  
+  
+  
+  .num {
+    background: red;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+  }
+  
+  
